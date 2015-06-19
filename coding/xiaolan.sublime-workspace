@@ -4,281 +4,29 @@
 		"selected_items":
 		[
 			[
-				"butto",
-				"button-popup"
+				"wid",
+				"widows"
 			],
 			[
-				"paret",
-				"parents	.parents()"
+				"fluid",
+				"fluid-email"
 			],
 			[
-				"bw",
-				"border-width"
-			],
-			[
-				"wsn",
-				"whs-nw	white-space: nowrap;"
-			],
-			[
-				"be",
-				"begin"
-			],
-			[
-				"inlin",
-				"inline-block"
-			],
-			[
-				"head",
-				"head-padding"
-			],
-			[
-				"tabe",
-				"table-cell"
-			],
-			[
-				"cent",
-				"center-var"
-			],
-			[
-				"jus",
-				"justify-var"
-			],
-			[
-				"colu",
-				"columns"
-			],
-			[
-				"col",
-				"column-width"
-			],
-			[
-				"back",
-				"background-image"
-			],
-			[
-				"con",
-				"connecter"
-			],
-			[
-				"font",
-				"font-size"
-			],
-			[
-				"type",
-				"type-var"
-			],
-			[
-				"bp",
-				"bp-mi-var"
-			],
-			[
-				"debug",
-				"debug-var"
-			],
-			[
-				"de",
-				"debug-var"
-			],
-			[
-				"two",
-				"two-columns-var"
-			],
-			[
-				"gall",
-				"gallery-var"
-			],
-			[
-				"span",
-				"span-var"
-			],
-			[
-				"list",
-				"list-new"
-			],
-			[
-				"contai",
-				"container-var"
-			],
-			[
-				"add",
-				"add	.add()"
-			],
-			[
-				"ff",
-				"ff-t	font-family: \"Times New Roman\", Times, Baskerville, Georgia, serif;"
-			],
-			[
-				"no",
-				"nowrap"
-			],
-			[
-				"bg",
-				"bg+	background: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
-			],
-			[
-				"scr",
-				"scrollTop	.scrollTop()"
-			],
-			[
-				"if",
-				"ife	if … else"
-			],
-			[
-				"of",
-				"offset	.offset()"
-			],
-			[
-				"css",
-				"css	.css() - single"
-			],
-			[
-				"htm",
-				"html	.html()"
-			],
-			[
-				"for",
-				"forEach"
-			],
-			[
-				"filter",
-				"filter	.filter()"
-			],
-			[
-				"select",
-				"selector"
-			],
-			[
-				"child",
-				"childNodes"
-			],
-			[
-				"parent",
-				"parentNode"
-			],
-			[
-				"node",
-				"nodeType"
-			],
-			[
-				"prop",
-				"properties"
-			],
-			[
-				"togg",
-				"toggleClass	.toggleClass()"
-			],
-			[
-				"attr",
-				"attr	.attr() - single"
-			],
-			[
-				"new",
-				"new-context"
-			],
-			[
-				"selector",
-				"selector-replace"
-			],
-			[
-				"el",
-				"element"
-			],
-			[
-				"att",
-				"attr	.attr() - single"
-			],
-			[
-				"on",
-				"on	.on()"
-			],
-			[
-				"map",
-				"mapOne"
-			],
-			[
-				"index",
-				"indexOf"
-			],
-			[
-				"ind",
-				"indexOf"
-			],
-			[
-				"cla",
-				"className"
-			],
-			[
-				"has",
-				"hasClass	.hasClass()"
-			],
-			[
-				"stylesh",
-				"stylesheet"
-			],
-			[
-				"sty",
-				"styleSheets"
-			],
-			[
-				"sele",
-				"selector"
-			],
-			[
-				"st",
-				"styleSheets"
-			],
-			[
-				"style",
-				"stylesheet"
-			],
-			[
-				"val",
-				"value"
-			],
-			[
-				"sec",
-				"selector"
-			],
-			[
-				"sel",
-				"selector"
-			],
-			[
-				"rea",
-				"ready	$(document).ready"
-			],
-			[
-				"first",
-				"firstElementChild"
-			],
-			[
-				"pos",
-				"position"
-			],
-			[
-				"po",
-				"position"
-			],
-			[
-				"cou",
-				"counter-increment"
-			],
-			[
-				"border",
-				"border-color"
-			],
-			[
-				"bord",
-				"border-color"
-			],
-			[
-				"bor",
-				"border-color"
+				"vab",
+				"va-bl	vertical-align: baseline;"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "gallery.html",
+			"settings":
+			{
+				"buffer_size": 1322,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -288,167 +36,39 @@
 	"command_palette":
 	{
 		"height": 400.0,
-		"last_filter": "p",
+		"last_filter": "prc",
 		"selected_items":
 		[
-			[
-				"p",
-				"Project: Save As"
-			],
 			[
 				"prc",
 				"Project: Close"
 			],
 			[
-				"html",
-				"Set Syntax: HTML"
+				"psa",
+				"Project: Save As"
+			],
+			[
+				"p",
+				"Project: Save As"
 			],
 			[
 				"pr",
 				"Project: Save As"
 			],
 			[
-				"package re",
-				"Package Control: Remove Package"
-			],
-			[
-				":w",
-				":w - Save"
-			],
-			[
-				"copp",
-				"File: Copy Path From Project"
-			],
-			[
-				"fet",
-				"Fetch: Package"
-			],
-			[
-				"fetchp",
-				"Fetch: Package"
-			],
-			[
-				"fe",
-				"Fetch: Manage"
-			],
-			[
-				"scss",
-				"Set Syntax: SCSS"
-			],
-			[
-				"PackageResourceViewer",
-				"PackageResourceViewer: Open Resource"
-			],
-			[
-				"code",
-				"Codekit: Add project"
-			],
-			[
-				"copyp",
-				"File: Copy Path From Project"
-			],
-			[
-				"cap",
-				"Codekit: Add project"
+				"sass",
+				"Set Syntax: Sass"
 			],
 			[
 				"prs",
 				"Project: Save As"
 			],
 			[
-				"css",
-				"Set Syntax: CSS"
-			],
-			[
-				"cop",
-				"File: Copy Path From Project"
-			],
-			[
-				"copypa",
-				"File: Copy Path"
-			],
-			[
-				"codekad",
+				"co ap",
 				"Codekit: Add project"
-			],
-			[
-				"jav",
-				"Set Syntax: JavaScript"
-			],
-			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
-				"re",
-				"Package Control: Remove Package"
-			],
-			[
-				"js",
-				"Set Syntax: JavaScript"
-			],
-			[
-				"ja",
-				"Set Syntax: JavaScript"
-			],
-			[
-				"path",
-				"File: Copy Path From Project"
-			],
-			[
-				"rem",
-				"Package Control: Remove Package"
-			],
-			[
-				"clos",
-				"File: Close All"
-			],
-			[
-				"clo",
-				"File: Close All"
-			],
-			[
-				"pc",
-				"Project: Close"
-			],
-			[
-				"prsa",
-				"Project: Save As"
-			],
-			[
-				"cl",
-				"Bookmarks: Clear All"
-			],
-			[
-				"cla",
-				"Bookmarks: Clear All"
-			],
-			[
-				"pack",
-				"Package Control: Remove Package"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"pro",
-				"Project: Save As"
-			],
-			[
-				"sidebar",
-				"View: Toggle Open Files in Side Bar"
-			],
-			[
-				"pros",
-				"Project: Save As"
-			],
-			[
-				"fetpa",
-				"Fetch: Package"
 			]
 		],
-		"width": 529.0
+		"width": 601.0
 	},
 	"console":
 	{
@@ -471,150 +91,136 @@
 	],
 	"file_history":
 	[
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/components/_popover.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/edit.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/part/upload-standard.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/components/_button.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/main.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/js/script.js",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/components/_button-popup.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/part/button/delete.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/class-folder-files.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/index.html",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/responsive-table.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/admin-academic.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/part/head.php",
-		"/Users/linwilliam/Downloads/abc-icons/styles.css",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/components/_icon-font.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/assets/css/main.css",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/helpers/_variables.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/js/lib/Modernizr.js",
-		"/Users/linwilliam/Documents/Projects/abc/coding/admin-course-edit.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/student-edit.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/videos.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/admin-report.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/student-create.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/vendors/_pikaday.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/components/_table.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/admin-announcement.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/admin-course-list.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/database.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/discussion-topic.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/discussion.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/grade-final.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/quiz-grades.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/student-list.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/submission-uploads.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/components/_form.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/pages/_grade.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/components/_panel.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/pages/_database.scss",
-		"/Users/linwilliam/Downloads/NIV/untitled.html",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/components/_icon.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/bower.json",
-		"/Users/linwilliam/Documents/Projects/index.php",
-		"/Users/linwilliam/Documents/Projects/index.html",
-		"/Users/linwilliam/Documents/Projects/abc/coding/edit-section.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/pages/_classroom.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/classroom.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/base/_typography.scss",
-		"/Users/linwilliam/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/linwilliam/Documents/Projects/abc/coding/index.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/login.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/part/upload-base.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/pages/_home.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/bower_components/rocket/src/scss/addons/_breakpoint.scss",
-		"/Users/linwilliam/Documents/Projects/abc/admin-course-list.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/layout/_header.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/part/footer.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/layout/_footer.scss",
-		"/Users/linwilliam/Documents/Projects/abc/coding/part/header.php",
-		"/Users/linwilliam/Documents/Projects/abc/coding/dev/scss/base/_reset.scss",
-		"/Users/linwilliam/Downloads/loud",
-		"/Users/linwilliam/Documents/Projects/abc/.gitignore",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/_rocket.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/components/_dropdown.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/base/_variables.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/components/_off-canvas.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/config.codekit",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/README.md",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/include/more-demos.php",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/addons-button.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/layout/_span-calc.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/components/_button.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/config.json",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/layout/_gallery.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/layout-gallery.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/layout-center.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/layout/_justify.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/layout/_center.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/slider/_gallery.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/layout/_two-columns.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/base/_functions.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/layout-grid.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/layout/_container.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/layout/_span.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/test.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/base/_mixins.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/layout/_wrap.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/addons/_type.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/addons-type.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/addons/_visibility.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/addons/_breakpoint.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/slider-gallery.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/slider-carousel.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/layout-justify.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/layout-two-columns.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/addons/_ie-rgba.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/addons/_opacity.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/addons/_rems.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/base/_placeholders.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/color/_core.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/components/_tooltip.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/addons-visibility.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/color-adjacent.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/layout/function/_span.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/slider/_carousel.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/slider/base/_gallery-base.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/slider/base/_slider-common.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/_test.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/layout/_setting.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/_demo-base.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/vendors/_transition.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/vendors/_animation.scss",
-		"/Users/linwilliam/Desktop/test/foundation/scss/foundation.scss",
-		"/Users/linwilliam/Desktop/test/foundation/scss/foundation/_functions.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/vendors/_flex-box.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/css/layout-center.css",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/vendors/_background-image.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/sache.json",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/bower.json",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/css/addons-visibility.css",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/css/test.css",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/addons-tooltip.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/vendors/_prefixer.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/src/scss/vendors/_keyframes.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/addons-flex-video.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/layout-debug.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/addons-dropdown.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/addons-media-list.scss",
-		"/Users/linwilliam/Documents/Projects/develop/rocket/docs/scss/demo/addons-off-canvas.scss"
+		"/Volumes/Macintosh HD 2/Projects/develop/xiaolan/coding/css/main.css",
+		"/Volumes/Macintosh HD 2/Projects/develop/xiaolan/.gitignore",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/part/footer.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/terms.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/subscribe.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/privacy.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/about.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/contact.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/404.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/js/script.js",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/layout/_navigation.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/pages/_subscribe.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/part/header.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/layout/_header.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/part/head.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/index.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/section.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/assets/css/main.css",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/article.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/layout/_sidebar.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/bower.json",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/part/aside.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/bower_components/rocket/src/scss/components/_media.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/pages/_about.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/main.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/base/_typography.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/helpers/_variables.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/components/_button.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/pages/_home.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/bower_components/rocket/src/js/kit/core.js",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/layout/_footer.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/components/_panel.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/components/_form.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/bower_components/rocket/src/scss/base/_placeholders.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/components/_sidebar.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/helpers/_placeholders.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/components/_icon.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/part/social-gray.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/part/social-body.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/bower_components/rocket/demos/include/site-footer.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/bower_components/rocket/src/scss/components/_offcanvas.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/bower_components/rocket/src/scss/base/_variables.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/bower_components/rocket/src/scss/addons/_visible.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/bower_components/rocket/src/scss/addons/_hidden.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/base/_reset.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/part/social-head.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/part/main-nav.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/part/share-buttons.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/part/social-dark.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/part/social-foot.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/bower_components/rocket/demos/components-offcanvas.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/bower_components/rocket/demos/include/site-nav.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/bower_components/rocket/demos/include/mb-nav.php",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/dev/scss/_mq.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/assets/js/script.js",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/assets/scss/site/_common.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/assets/scss/site/_mq.scss",
+		"/Volumes/Macintosh HD 2/Projects/mnr/coding/assets/js/script.min.js",
+		"/Users/designer/Desktop/SASS4beginners/reference.md",
+		"/Users/designer/Desktop/SASS4beginners/README.md",
+		"/Volumes/Macintosh HD 2/Projects/develop/rocket/src/scss/layout/_setting.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/rocket/src/scss/layout/_span.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/rocket/src/scss/layout/_span-calc.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/rocket/docs/scss/demo/layout-grid.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/rocket/src/scss/layout/_justify.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/rocket/src/scss/_rocket.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/docs/demo.html",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/docs/index.html",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/docs/css/demo.css",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/src/scss/_setting.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/src/scss/_button.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/src/scss/_grid.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/README.md",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/src/scss/_gallery.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/src/index.html",
+		"/Volumes/Macintosh HD 2/Projects/epray/eblast/coding/index.html",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/src/scss/_breakpoint.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/docs/scss/demo.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/src/scss/_email-base.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/src/scss/color/_adjacent.scss",
+		"/Users/designer/Desktop/all-templates/sidebar.html",
+		"/Users/designer/Desktop/all-templates/basic.html",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/.gitignore",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/changelog.md",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/src/scss/index.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/src/css/index.css",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/src/scss/_fluid-email.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/src/scss/_function.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/src/scss/_visibility.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/sache.json",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/bower.json",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/fluid-email.sublime-project",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/sftp-config.json",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/docs/scss/_demo.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/demo.html",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/css/index.css",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/scss/_email-base.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/scss/_breakpoint.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/scss/_setting.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/scss/_gallery.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/index.html",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/scss/_grid.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/scss/_button.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/scss/index.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/config.codekit",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/scss/_function.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/fluid-email/scss/_block-grid.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/rocket/.gitignore",
+		"/Volumes/Macintosh HD 2/Projects/develop/rocket/bower_components/bourbon/app/assets/stylesheets/functions/_px-to-rem.scss",
+		"/Volumes/Macintosh HD 2/Projects/develop/rocket/docs/prism/prism.css",
+		"/Volumes/Macintosh HD 2/Projects/bc/aboutus.php",
+		"/Volumes/Macintosh HD 2/Projects/article-cp-new/assets/scss/bourbon/addons/_prefixer.scss",
+		"/Volumes/Macintosh HD 2/Projects/article-cp-new/assets/js/lib/plugins.js",
+		"/Users/designer/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 33.0
 	},
 	"find_in_files":
 	{
-		"height": 117.0,
+		"height": 103.0,
 		"where_history":
 		[
-			"*.php, *.scss",
+			"*.php",
+			"*.scss",
 			"*.php",
 			"*.scss",
 			"",
-			"*.scss",
-			""
+			"*.scss"
 		]
 	},
 	"find_state":
@@ -622,134 +228,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"popup",
-			"button-popup",
-			"float-button",
-			"<span class=\"button button-danger\"><span class=\"abc-delete\"></span>Delete</span>",
-			"f2f2f2",
-			"normal",
-			"<span class=\"control-label\"></span>",
-			"<label for=\"\" class=\"control-label\"></label>",
-			"<label for=\"\" class=\"control-label label-empty\"></label>",
-			"<label for=\"\" class=\"control-label\">&nbsp;</label>",
-			"<label for=\"\" class=\"control-label label-empty\">&nbsp;</label>",
-			"field: ",
-			"});",
-			"<table class=\"",
-			"table",
-			"begin",
-			"id",
-			"<span for=\"\" ",
-			" class=\"form-control\"",
-			"dh",
-			".full",
-			"select-wrap\"",
-			"select-wrap",
-			" class=\"form-control\"",
-			"<li>",
-			" ",
-			"<a data-boo",
-			"<li><a href=\"",
-			" ",
-			"/Users/linwilliam/Documents/Projects/abc/coding",
-			"</html>\n/Users/linwilliam/Documents/Projects/abc/coding/",
+			"images/",
+			"http://placehold.it/93x116",
+			"vinereport",
+			"VineReport",
+			"vinereport",
+			"/Volumes/Macintosh\\ HD\\ 2/Projects/mnr/coding/",
 			".php",
-			" class=\"checkbox\" style=\"float:left; margin-bottom:15px; width:190px;\"",
-			"<label>",
-			"panel-pure",
-			"status",
-			"Status",
-			"upload",
-			"class=\"form-control\"",
-			"class=\"select",
-			"<label for=\"\" class=\"control-label\">",
-			"danger",
-			"button-alert",
-			"edit</span>",
-			".clearfix",
-			"1070",
-			"min",
-			"item",
-			"padding",
-			"1024",
-			"  ",
-			"normal",
-			"767",
-			"abc-calendar",
-			"abc-speaker",
-			"value=\"",
-			"<a href=\"\"",
-			"speaker",
-			"$offcanvas",
-			"addons-flex-video.php",
-			"addons-tooltip.php",
-			"addons-dropdown.php",
-			"addons-off-canvas.php",
-			"addons-media-list.php",
-			"addons-button.php",
-			"addon-button.php",
-			"center",
+			"subsc",
+			"10",
+			"<img src",
+			"<img src=",
+			"<img src",
+			"<img s",
+			"/bib",
+			"href=\"",
+			"map",
+			"rem",
+			"$red",
+			"3",
+			"col col-1 col",
+			"2",
+			"20",
+			"comment.png",
+			"offset",
+			"40",
+			"leading",
+			"panel",
+			" 300",
+			"leading",
+			"<h2>",
+			"<figcaption>",
+			"figcaption",
+			"background",
+			"view-more",
+			"$text-color",
+			"$blue",
+			"$light-blue",
+			"$red",
+			"$brand-color",
+			"$yellow",
+			"$a-color",
+			"$border-color",
+			"header-aside",
+			"header-main",
+			"%header",
+			"icons-gray ",
+			"#{$item}",
+			"window si",
+			"$",
+			".sn-",
+			"sn-",
+			"twitter",
+			".fa-",
+			"include size",
+			"15%",
+			"23",
+			"ic-mail",
+			"gplus",
+			"sn-",
+			"hidden-desktop",
+			"visible-desktop",
+			"visible-tablet",
+			"hidden-tablet",
+			"hidden-mobile",
+			"visible-mobile",
+			"visible-on",
+			"hidden-on",
+			"@at-root ",
+			"icon-",
+			"fa fa-",
+			"sidebar",
+			"@@",
+			"nav",
+			"include rem(",
+			"sidebar",
+			"@include rem(",
+			"@mixin rem",
+			"rems (",
+			"header_bg",
+			"Css properties;",
+			"statements;",
+			"Do something;",
+			"10px",
+			"value",
+			"topnews-img",
+			"column-right",
 			"right",
-			"column-width",
-			"column-width-percentage",
-			"column-width",
-			"@include bpmm",
-			"@include bpma",
-			"@include bpmi",
-			"ro-",
-			"@include justify",
-			"justify-flex",
-			"@include gallery",
-			"@include two-columns",
-			"column-two-columns",
-			"column-width",
-			"@include span-calc",
-			"@include wrap",
-			"@include container",
-			"%layout-span",
-			"%layout-wrap",
-			"$layout",
-			"span(",
-			"include type",
-			"include hidden",
-			"include visible",
-			"include bp-mm",
-			"include bp-ma",
-			"include bp-mi",
-			"mixin bp",
-			"include rems",
-			"include ie-rgba",
-			"include opacity",
-			"include span(",
-			"$cover-bg",
-			"#{$name-space}",
-			" span",
-			"%clearfix",
-			"%hover-tdn",
-			"%global-transition",
-			"$slider-zindex",
-			"$peritem",
-			"$pause",
-			"$play",
-			"ro-slider-time",
-			"$time",
-			"$color-dist",
-			"$color-methods",
-			"$dropdown-show",
-			"$tooltip-radius",
-			"$tooltip-direction",
-			"$button-hover-lightness",
-			"$button-round",
-			"$button-radius",
-			"$off-canvas-var",
-			"$off-canvas-direction",
-			"$off-canvas-styles",
-			"$text-transforms",
-			"$font-styles",
-			"$font-weights",
-			"$media-types",
-			"$global-bezier",
-			"$global-animation-duration"
+			"column-right",
+			"ad-",
+			"width: 300px",
+			"grid-breakpoint",
+			"bp",
+			"class",
+			"topnews-img",
+			"530",
+			"color: #ffffff;",
+			"<td class=\"center",
+			"<td>",
+			"<p>",
+			"<h5>",
+			"<img",
+			"<img s",
+			"'",
+			"or",
+			"@media",
+			"em(1)",
+			"bp-em",
+			"em(1)",
+			"mi(",
+			"toem(",
+			"300",
+			"class=\"logo",
+			"./",
+			".",
+			"display: none;",
+			"date",
+			"600",
+			".",
+			"&",
+			"Georgia",
+			"7",
+			"src=\"http://placehold.it/100x100\"",
+			"center",
+			"<td",
+			"<p></p>",
+			"sub-cols-5",
+			"sub-cols-7",
+			"left"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -757,74 +363,24 @@
 		"regex": false,
 		"replace_history":
 		[
-			"popover",
-			"popup",
-			"<span class=\"control-label\">&nbsp;</span>",
-			"<span class=\"control-label\"></span>",
-			"<table class=\"table ",
-			"button-danger",
-			"Edit</span>",
-			"$off-canvas",
-			"components-flex-video.php",
-			"components-tooltip.php",
-			"components-dropdown.php",
-			"components-off-canvas.php",
-			"components-media-list.php",
-			"components-button.php",
-			"@include breakpoint-mm",
-			"@include breakpoint-ma",
-			"@include breakpoint-mi",
-			"",
-			"@include ro-justify",
-			"@include ro-gallery",
-			"@include ro-two-columns",
-			"@include ro-span-calc",
-			"@include ro-wrap",
-			"@include ro-container",
-			"%ro-layout-span",
-			"%ro-layout-wrap",
-			"$ro-layout",
-			"include ro-type",
-			"include ro-hidden",
-			"include ro-visible",
-			"include ro-bpmm",
-			"include ro-bpma",
-			"include ro-bpmi",
-			"include ro-span(",
-			"%ro-clearfix",
-			"%ro-hover-no-text-decoration",
-			"%ro-global-transition",
-			"$ro-slider-z-index",
-			"$ro-slider-peritem",
-			"$ro-slider-pause",
-			"$ro-slider-play",
-			"$ro-slider-time",
-			"$ro-color-dist",
-			"$ro-color-methods",
-			"$ro-dropdown-show",
-			"$ro-tooltip-radius",
-			"$ro-tooltip-direction",
-			"$ro-button-hover-lightness",
-			"$ro-button-round",
-			"$ro-button-radius",
-			"$offcanvas-var",
-			"$ro-offcanvas-direction",
-			"$ro-offcanvas-styles",
-			"$ro-text-transforms",
-			"$ro-font-styles",
-			"$ro-font-weights",
-			"$ro-media-types",
-			"$ro-global-bezier",
-			"$ro-global-animation-duration",
-			"$ro-z-index",
-			"$ro-rem-base",
-			"$ro-em-base",
-			"$helvetica",
-			"$font-",
-			"font-",
-			"hover-tdn",
-			"article-aside-normal",
-			"sec-aside-normal"
+			"map-get($color, 'brand')",
+			".ic-",
+			"ic-envelope",
+			"google-plus",
+			"ic-",
+			"hidden-lg",
+			"visible-lg",
+			"visible-md",
+			"hidden-md",
+			"hidden-sm",
+			"visible-sm",
+			"visible",
+			"hidden",
+			"ic-",
+			"icon-",
+			"@",
+			"@include rems(",
+			"gallery-gutter"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -835,18 +391,123 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "gallery.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								926,
+								926
+							],
+							[
+								1020,
+								1020
+							],
+							[
+								1114,
+								1114
+							],
+							[
+								1208,
+								1208
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 29.0
+		"height": 33.0
 	},
 	"input":
 	{
-		"height": 43.0
+		"height": 37.0
 	},
 	"layout":
 	{
@@ -877,13 +538,13 @@
 	},
 	"output.sftp":
 	{
-		"height": 172.0
+		"height": 176.0
 	},
 	"pinned_build_system": "",
 	"project": "xiaolan.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -893,516 +554,516 @@
 		"selected_items":
 		[
 			[
+				"main",
+				"css/main.css"
+			],
+			[
+				"gall",
+				"gallery.html"
+			],
+			[
+				"footph",
+				"part/footer.php"
+			],
+			[
+				"ter",
+				"terms.php"
+			],
+			[
+				"foo",
+				"part/footer.php"
+			],
+			[
+				"sub",
+				"subscribe.php"
+			],
+			[
+				"pri",
+				"privacy.php"
+			],
+			[
+				"aboutp",
+				"about.php"
+			],
+			[
+				"cont",
+				"contact.php"
+			],
+			[
+				"404",
+				"404.php"
+			],
+			[
 				"sc",
 				"dev/js/script.js"
 			],
 			[
-				"pop",
-				"dev/scss/components/_popover.scss"
+				"sec",
+				"section.php"
 			],
 			[
-				"but",
-				"dev/scss/components/_button.scss"
+				"ind",
+				"index.php"
 			],
 			[
-				"us",
-				"part/upload-standard.php"
-			],
-			[
-				"edi",
-				"edit.php"
-			],
-			[
-				"res",
-				"dev/scss/responsive-table.scss"
-			],
-			[
-				"inh",
-				"index.html"
-			],
-			[
-				"dele",
-				"part/button/delete.php"
-			],
-			[
-				"hea",
-				"part/head.php"
-			],
-			[
-				"icon",
-				"dev/scss/components/_icon-font.scss"
-			],
-			[
-				"main",
-				"assets/css/main.css"
-			],
-			[
-				"va",
-				"dev/scss/helpers/_variables.scss"
-			],
-			[
-				"mo",
-				"dev/js/lib/Modernizr.js"
-			],
-			[
-				"butp",
-				"dev/scss/components/_button-popup.scss"
-			],
-			[
-				"del",
-				"part/button/delete.php"
-			],
-			[
-				"de",
-				"part/button/delete.php"
-			],
-			[
-				"butt",
-				"dev/scss/components/_button.scss"
-			],
-			[
-				"pi",
-				"dev/scss/vendors/_pikaday.scss"
-			],
-			[
-				"tabl",
-				"dev/scss/components/_table.scss"
-			],
-			[
-				"form",
-				"dev/scss/components/_form.scss"
-			],
-			[
-				"adma",
-				"admin-academic.php"
-			],
-			[
-				"respitsc",
-				"dev/scss/responsive-table.scss"
-			],
-			[
-				"var",
-				"dev/scss/helpers/_variables.scss"
-			],
-			[
-				"pan",
-				"dev/scss/components/_panel.scss"
-			],
-			[
-				"grsc",
-				"dev/scss/pages/_grade.scss"
-			],
-			[
-				"mainsc",
-				"dev/scss/main.scss"
-			],
-			[
-				"dasc",
-				"dev/scss/pages/_database.scss"
-			],
-			[
-				"fina",
-				"grade-final.php"
+				"subsc",
+				"dev/scss/pages/_subscribe.scss"
 			],
 			[
 				"mainc",
 				"assets/css/main.css"
 			],
 			[
-				"scrits",
-				"dev/js/script.js"
+				"navi",
+				"dev/scss/layout/_navigation.scss"
 			],
 			[
-				"iconsc",
-				"dev/scss/components/_icon.scss"
+				"header",
+				"part/header.php"
 			],
 			[
-				"datsc",
-				"dev/scss/pages/_database.scss"
+				"headersc",
+				"dev/scss/layout/_header.scss"
 			],
 			[
-				"uplst",
-				"part/upload-standard.php"
+				"hea",
+				"part/head.php"
 			],
 			[
-				"ace",
-				"admin-course-edit.php"
+				"inde",
+				"index.php"
 			],
 			[
-				"bower",
+				"sid",
+				"dev/scss/layout/_sidebar.scss"
+			],
+			[
+				"bow",
 				"bower.json"
 			],
 			[
-				"clasc",
-				"dev/scss/pages/_classroom.scss"
+				"ab",
+				"about.php"
 			],
 			[
-				"cla",
-				"classroom.php"
+				"med",
+				"bower_components/rocket/src/scss/components/_media.scss"
 			],
 			[
-				"for",
-				"dev/scss/components/_form.scss"
+				"about",
+				"dev/scss/pages/_about.scss"
+			],
+			[
+				"te",
+				"terms.php"
+			],
+			[
+				"nav",
+				"dev/scss/layout/_navigation.scss"
+			],
+			[
+				"abosc",
+				"dev/scss/pages/_about.scss"
+			],
+			[
+				"ty",
+				"dev/scss/base/_typography.scss"
+			],
+			[
+				"buttsc",
+				"dev/scss/components/_button.scss"
+			],
+			[
+				"conta",
+				"contact.php"
+			],
+			[
+				"va",
+				"dev/scss/helpers/_variables.scss"
+			],
+			[
+				"aboutsc",
+				"dev/scss/pages/_about.scss"
+			],
+			[
+				"abot",
+				"about.php"
 			],
 			[
 				"typ",
 				"dev/scss/base/_typography.scss"
 			],
 			[
-				"stu",
-				"student-edit.php"
+				"co",
+				"bower_components/rocket/src/js/kit/core.js"
 			],
 			[
-				"dat",
-				"database.php"
+				"home",
+				"dev/scss/pages/_home.scss"
 			],
 			[
-				"s",
-				"student-edit.php"
+				"foot",
+				"dev/scss/layout/_footer.scss"
 			],
 			[
-				"datasc",
-				"dev/scss/pages/_database.scss"
+				"footphp",
+				"part/footer.php"
 			],
 			[
-				"mains",
-				"dev/scss/main.scss"
+				"ar",
+				"article.php"
 			],
 			[
-				"bu",
-				"dev/scss/components/_button.scss"
-			],
-			[
-				"bas",
-				"part/upload-base.php"
-			],
-			[
-				"ann",
-				"admin-announcement.php"
-			],
-			[
-				"upl",
-				"part/upload-base.php"
-			],
-			[
-				"pa",
+				"pan",
 				"dev/scss/components/_panel.scss"
 			],
 			[
-				"buts",
-				"dev/scss/components/_button.scss"
+				"artic",
+				"article.php"
 			],
 			[
-				"head",
-				"part/head.php"
+				"homes",
+				"dev/scss/pages/_home.scss"
 			],
 			[
-				"break",
-				"bower_components/rocket/src/scss/addons/_breakpoint.scss"
+				"form",
+				"dev/scss/components/_form.scss"
+			],
+			[
+				"mediasc",
+				"bower_components/rocket/src/scss/components/_media.scss"
+			],
+			[
+				"pla",
+				"bower_components/rocket/src/scss/base/_placeholders.scss"
+			],
+			[
+				"asi",
+				"part/aside.php"
+			],
+			[
+				"gra",
+				"part/social-gray.php"
+			],
+			[
+				"icnsc",
+				"dev/scss/components/_icon.scss"
 			],
 			[
 				"homesc",
 				"dev/scss/pages/_home.scss"
 			],
 			[
-				"homs",
-				"dev/scss/pages/_home.scss"
+				"site",
+				"bower_components/rocket/demos/include/site-footer.php"
 			],
 			[
-				"index",
-				"index.php"
+				"core.",
+				"bower_components/rocket/src/js/kit/core.js"
 			],
 			[
-				"ad",
-				"admin-course-list.php"
+				"offca",
+				"bower_components/rocket/src/scss/components/_offcanvas.scss"
 			],
 			[
-				"ind",
-				"coding/index.php"
+				"offcasc",
+				"bower_components/rocket/src/scss/components/_offcanvas.scss"
 			],
 			[
-				"head.sc",
-				"coding/dev/scss/layout/_header.scss"
+				"hiddensc",
+				"bower_components/rocket/src/scss/addons/_hidden.scss"
 			],
 			[
-				"bre",
-				"coding/bower_components/rocket/src/scss/addons/_breakpoint.scss"
-			],
-			[
-				"foo",
-				"coding/part/footer.php"
-			],
-			[
-				"footersc",
-				"coding/dev/scss/layout/_footer.scss"
-			],
-			[
-				"icon.sc",
-				"coding/dev/scss/components/_icon.scss"
-			],
-			[
-				"headersc",
-				"coding/dev/scss/layout/_header.scss"
-			],
-			[
-				"vari",
-				"coding/dev/scss/helpers/_variables.scss"
-			],
-			[
-				"header",
-				"coding/part/header.php"
-			],
-			[
-				"foot",
-				"coding/part/footer.php"
+				"visible",
+				"bower_components/rocket/src/scss/addons/_visible.scss"
 			],
 			[
 				"reset",
-				"coding/dev/scss/base/_reset.scss"
+				"dev/scss/base/_reset.scss"
 			],
 			[
-				"headerph",
-				"coding/part/header.php"
+				"sideba",
+				"dev/scss/layout/_sidebar.scss"
 			],
 			[
-				"git",
-				".gitignore"
+				"navigs",
+				"dev/scss/layout/_navigation.scss"
 			],
 			[
-				"dropdsc",
-				"src/scss/components/_dropdown.scss"
+				"sidebsc",
+				"dev/scss/layout/_sidebar.scss"
 			],
 			[
-				"rock",
-				"src/scss/_rocket.scss"
+				"offphp",
+				"bower_components/rocket/demos/components-offcanvas.php"
 			],
 			[
-				"addbusc",
-				"docs/scss/demo/addons-button.scss"
+				"rese",
+				"dev/scss/base/_reset.scss"
 			],
 			[
-				"buttonsc",
-				"src/scss/components/_button.scss"
+				"footsc",
+				"dev/scss/layout/_footer.scss"
 			],
 			[
-				"",
-				"config.json"
+				"sidebar",
+				"dev/scss/layout/_sidebar.scss"
 			],
 			[
-				"laycsc",
-				"docs/scss/demo/layout-center.scss"
+				"mainsc",
+				"dev/scss/main.scss"
 			],
 			[
-				"jus",
-				"src/scss/layout/_justify.scss"
+				"varsc",
+				"dev/scss/helpers/_variables.scss"
 			],
 			[
-				"center",
-				"src/scss/layout/_center.scss"
+				"foosc",
+				"dev/scss/layout/_footer.scss"
 			],
 			[
-				"just",
-				"src/scss/layout/_justify.scss"
+				"headsc",
+				"dev/scss/layout/_header.scss"
 			],
 			[
-				"laygasc",
-				"docs/scss/demo/layout-gallery.scss"
+				"mqsc",
+				"assets/scss/site/_mq.scss"
 			],
 			[
-				"gall",
-				"src/scss/layout/_gallery.scss"
+				"scm",
+				"assets/js/script.min.js"
 			],
 			[
-				"fun",
-				"src/scss/base/_functions.scss"
+				"ref",
+				"reference.md"
 			],
 			[
-				"twocosc",
-				"src/scss/layout/_two-columns.scss"
+				"re",
+				"README.md"
 			],
 			[
-				"basfun",
-				"src/scss/base/_functions.scss"
+				"spanc",
+				"src/scss/layout/_span-calc.scss"
 			],
 			[
-				"laygridsc",
+				"layoutgridsc",
 				"docs/scss/demo/layout-grid.scss"
+			],
+			[
+				"sett",
+				"src/scss/layout/_setting.scss"
 			],
 			[
 				"span",
 				"src/scss/layout/_span.scss"
 			],
 			[
-				"mixin",
-				"src/scss/base/_mixins.scss"
+				"rock",
+				"src/scss/_rocket.scss"
 			],
 			[
-				"tessc",
-				"docs/scss/test.scss"
+				"justify.sc",
+				"src/scss/layout/_justify.scss"
 			],
 			[
-				"contin",
-				"src/scss/layout/_container.scss"
+				"rocket.sc",
+				"src/scss/_rocket.scss"
 			],
 			[
-				"span-calc",
-				"src/scss/layout/_span-calc.scss"
+				"css",
+				"docs/css/demo.css"
 			],
 			[
-				"wrap",
-				"src/scss/layout/_wrap.scss"
+				"se",
+				"src/scss/_setting.scss"
 			],
 			[
-				"contain",
-				"src/scss/layout/_container.scss"
+				"but",
+				"src/scss/_button.scss"
 			],
 			[
-				"addty",
-				"docs/scss/demo/addons-type.scss"
+				"grid",
+				"src/scss/_grid.scss"
 			],
 			[
-				"typesc",
-				"src/scss/addons/_type.scss"
+				"demo",
+				"docs/demo.html"
 			],
 			[
-				"visibisc",
-				"src/scss/addons/_visibility.scss"
-			],
-			[
-				"br",
-				"src/scss/addons/_breakpoint.scss"
-			],
-			[
-				"_tes",
-				"docs/scss/_test.scss"
-			],
-			[
-				"layoutgalsc",
-				"src/scss/layout/_gallery.scss"
-			],
-			[
-				"gallery",
-				"src/scss/slider/_gallery.scss"
-			],
-			[
-				"two-co",
-				"src/scss/layout/_two-columns.scss"
-			],
-			[
-				"span-ca",
-				"src/scss/layout/_span-calc.scss"
-			],
-			[
-				"layoutset",
-				"src/scss/layout/_setting.scss"
+				"bas",
+				"src/scss/_email-base.scss"
 			],
 			[
 				"set",
-				"src/scss/layout/_setting.scss"
+				"src/scss/_setting.scss"
 			],
 			[
-				"tests",
-				"docs/scss/test.scss"
+				"gr",
+				"src/scss/_grid.scss"
 			],
 			[
-				"funspan",
-				"src/scss/layout/function/_span.scss"
+				"in",
+				"docs/index.html"
+			],
+			[
+				"demhtm",
+				"docs/demo.html"
+			],
+			[
+				"demsc",
+				"docs/scss/demo.scss"
+			],
+			[
+				"dem",
+				"docs/css/demo.css"
+			],
+			[
+				"abs",
+				"src/scss/_email-base.scss"
+			],
+			[
+				"chan",
+				"changelog.md"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"gal",
+				"src/scss/_gallery.scss"
+			],
+			[
+				"cs",
+				"docs/css/demo.css"
+			],
+			[
+				"fun",
+				"src/scss/_function.scss"
+			],
+			[
+				"b",
+				"src/scss/_breakpoint.scss"
+			],
+			[
+				"vi",
+				"src/scss/_visibility.scss"
+			],
+			[
+				"fl",
+				"src/scss/_fluid-email.scss"
+			],
+			[
+				"br",
+				"src/scss/_breakpoint.scss"
+			],
+			[
+				"ga",
+				"src/scss/_gallery.scss"
+			],
+			[
+				"gri",
+				"src/scss/_grid.scss"
 			],
 			[
 				"visi",
-				"src/scss/addons/_visibility.scss"
+				"src/scss/_visibility.scss"
 			],
 			[
-				"rems",
-				"src/scss/addons/_rems.scss"
+				"de",
+				"docs/scss/demo.scss"
 			],
 			[
-				"ie",
-				"src/scss/addons/_ie-rgba.scss"
+				"decs",
+				"docs/css/demo.css"
 			],
 			[
-				"ir",
-				"src/scss/addons/_ie-rgba.scss"
+				"demcs",
+				"docs/css/demo.css"
 			],
 			[
-				"opa",
-				"src/scss/addons/_opacity.scss"
+				"sa",
+				"sache.json"
 			],
 			[
-				"test",
-				"docs/scss/test.scss"
+				"j",
+				"bower.json"
 			],
 			[
-				"vir",
-				"src/scss/base/_variables.scss"
+				"rea",
+				"README.md"
 			],
 			[
-				"plac",
-				"src/scss/base/_placeholders.scss"
+				"bw",
+				"bower.json"
 			],
 			[
-				"place",
-				"src/scss/base/_placeholders.scss"
+				"vis",
+				"src/scss/_visibility.scss"
 			],
 			[
-				"baseva",
-				"src/scss/base/_variables.scss"
+				"flu",
+				"src/scss/_fluid-email.scss"
 			],
 			[
-				"gridsc",
-				"docs/scss/demo/layout-grid.scss"
+				"demc",
+				"docs/css/demo.css"
 			],
 			[
-				"flex",
-				"src/scss/vendors/_flex-box.scss"
+				"fluisc",
+				"src/scss/_fluid-email.scss"
 			],
 			[
-				"laycecs",
-				"docs/css/layout-center.css"
+				"desc",
+				"docs/scss/demo.scss"
 			],
 			[
-				"laycencs",
-				"docs/css/layout-center.css"
+				"indesc",
+				"src/scss/index.scss"
 			],
 			[
-				"tesc",
-				"docs/scss/test.scss"
+				"bp",
+				"scss/_breakpoint.scss"
 			],
 			[
-				"funcspan",
-				"src/scss/layout/function/_span.scss"
+				"indht",
+				"index.html"
 			],
 			[
-				"layoutgrsc",
-				"docs/scss/demo/layout-grid.scss"
+				"inds",
+				"scss/index.scss"
 			],
 			[
-				"back",
-				"src/scss/vendors/_background-image.scss"
+				"indsc",
+				"scss/index.scss"
 			],
 			[
-				"offsc",
-				"src/scss/components/_off-canvas.scss"
+				"scss",
+				"scss/_gallery.scss"
 			],
 			[
-				"slidergs",
-				"docs/scss/demo/slider-gallery.scss"
+				"indec",
+				"css/index.css"
 			],
 			[
-				"demba",
-				"docs/scss/demo/_demo-base.scss"
+				"ba",
+				"scss/_email-base.scss"
 			],
 			[
-				"container",
-				"src/scss/layout/_container.scss"
+				"butt",
+				"scss/_button.scss"
 			],
 			[
-				"testsc",
-				"docs/scss/test.scss"
+				"bl",
+				"scss/_block-grid.scss"
 			],
 			[
-				"testcs",
-				"docs/css/test.css"
+				"insc",
+				"scss/index.scss"
+			],
+			[
+				"indcs",
+				"css/index.css"
 			]
 		],
 		"width": 0.0
@@ -1414,80 +1075,64 @@
 		"selected_items":
 		[
 			[
+				"ecu 20",
+				"/Volumes/Macintosh HD 2/Projects/ecu/2015/coding/ecu-2015.sublime-project"
+			],
+			[
+				"sp",
+				"/Volumes/Macintosh HD 2/Projects/sportsnews/coding/sportsnews.sublime-project"
+			],
+			[
 				"st",
-				"~/Documents/Projects/develop/startpoint/startpoint.sublime-project"
+				"/Volumes/Macintosh HD 2/Projects/develop/startpoint/startpoint.sublime-project"
 			],
 			[
-				"ro",
-				"~/Documents/Projects/develop/rocket/rocket.sublime-project"
+				"roc",
+				"/Volumes/Macintosh HD 2/Projects/develop/rocket/rocket.sublime-project"
 			],
 			[
-				"start",
-				"~/Documents/Projects/develop/startpoint/startpoint.sublime-project"
-			],
-			[
-				"css",
-				"~/Documents/Projects/develop/CSS-study/css-study.sublime-project"
-			],
-			[
-				"rk",
-				"~/Documents/Projects/rocket/rocket.sublime-workspace"
-			],
-			[
-				"time",
-				"~/Documents/Projects/times-new/times-new.sublime-project"
-			],
-			[
-				"cod",
-				"~/Documents/Projects/coding/coding.sublime-project"
-			],
-			[
-				"codi",
-				"~/Documents/Projects/coding/coding.sublime-project"
-			],
-			[
-				"new",
-				"~/Documents/Projects/new/new.sublime-project"
-			],
-			[
-				"chcn",
-				"~/Documents/Projects/christiandaily_cn/christiandaily_cn.sublime-project"
-			],
-			[
-				"ct",
-				"~/Documents/Projects/ct-new/ct-new.sublime-project"
-			],
-			[
-				"liv",
-				"~/Documents/Projects/livingspring/livingspring.sublime-project"
-			],
-			[
-				"cptv",
-				"~/Documents/Projects/cptv/cptv.sublime-project"
-			],
-			[
-				"ti",
-				"/Applications/XAMPP/xamppfiles/htdocs/times-new/times.sublime-project"
-			],
-			[
-				"tim",
-				"/Applications/XAMPP/xamppfiles/htdocs/times-new/times.sublime-project"
-			],
-			[
-				"gh",
-				"/Applications/XAMPP/xamppfiles/htdocs/gh/gh.sublime-project"
-			],
-			[
-				"bc",
-				"/Applications/XAMPP/xamppfiles/htdocs/bc/bc.sublime-project"
+				"rock",
+				"/Volumes/Macintosh HD 2/Projects/develop/rocket/rocket.sublime-project"
 			],
 			[
 				"",
-				"/Applications/XAMPP/xamppfiles/htdocs/daily/daily.sublime-project"
+				"/Volumes/Macintosh HD 2/Projects/sportsnews/coding/sportsnews.sublime-project"
 			],
 			[
-				"dai",
-				"/Applications/XAMPP/xamppfiles/htdocs/daily/daily.sublime-project"
+				"spo",
+				"/Volumes/Macintosh HD 2/Projects/sportsnews/coding/sportsnews.sublime-project"
+			],
+			[
+				"abc",
+				"/Volumes/Macintosh HD 2/Projects/abc/coding/abc.sublime-project"
+			],
+			[
+				"ct",
+				"/Volumes/Macintosh HD 2/Projects/ct-new/ct-new.sublime-project"
+			],
+			[
+				"ro",
+				"/Volumes/Macintosh HD 2/Projects/develop/rocket/rocket.sublime-project"
+			],
+			[
+				"rkc",
+				"/Volumes/Macintosh HD 2/Projects/develop/rocket/rocket.sublime-project"
+			],
+			[
+				"hall",
+				"/Volumes/Macintosh HD 2/Projects/hallels/hallels.sublime-project"
+			],
+			[
+				"bc",
+				"/Volumes/Macintosh HD 2/Projects/bc/bc.sublime-project"
+			],
+			[
+				"ecu",
+				"/Volumes/Macintosh HD 2/Projects/article-cp-new/article-cp-new.sublime-project"
+			],
+			[
+				"r",
+				"/Volumes/Macintosh HD 2/Projects/develop/rocket/rocket.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -1506,10 +1151,10 @@
 	{
 	},
 	"show_minimap": true,
-	"show_open_files": true,
+	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": false,
-	"side_bar_width": 182.0,
+	"side_bar_width": 150.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
