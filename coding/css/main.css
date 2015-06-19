@@ -1,0 +1,107 @@
+body,
+ul,
+ol,
+li {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+
+.page {
+  width: 615px;
+  height: 465px;
+  margin: 90px auto 40px;
+  background: url('../images/bg.png') 0 0 no-repeat;
+}
+.aside {
+  float: left;
+  width: 200px;
+  margin-left: 55px;
+  margin-top: 39px;
+  font-size: 14px;
+  color: #666;
+}
+.aside .name {
+  margin-top: 44px;
+}
+.aside .avatar {
+  margin-top: 20px;
+  margin-left: 60px;
+}
+.aside .txt-2 {
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: 22px;
+}
+.main {
+  width: 210px;
+  float: right;
+  margin-right: 40px;
+}
+.main-info {
+  height: 400px;
+  background: url('../images/file.png') 25px bottom no-repeat;
+}
+.main-music {
+  height: 420px;
+  background: url('../images/music.png') 85px bottom no-repeat;
+}
+.nav {
+  margin-top: -40px;
+  margin-bottom: 80px;
+  text-align: center;
+}
+.nav li {
+  display: inline-block;
+  margin: 0 5px;
+}
+.nav a {
+  display: block;
+  padding: 15px 10px 8px;
+  margin-bottom: 20px;
+  color: #fff;
+  text-decoration: none;
+  opacity: 0.7;
+}
+.nav a:hover { opacity: 1; }
+.nav .current {
+  margin-top: -10px;
+}
+.nav .current a {
+  padding: 25px 10px 40px;
+  margin-bottom: 0;
+  opacity: 1;
+}
+.nav .gerendang a { background-color: #7ED321; }
+.nav .music a { background-color: #F5A623; }
+.nav .gallery a { background-color: #4A90E2; }
+
+h2 {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+.list-info li,
+.list-music li {
+  font-size: 12px;
+  margin: 10px 0;
+  color: #666;
+}
+.list-music li a {
+  color: #666;
+  text-decoration: none;
+}
+.list-music li a:hover {
+  color: #6AC19B;
+}
+.list-music img {
+  vertical-align: middle;
+  margin-right: 7px;
+}
+.list-gallery li {
+  float: left;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+.list-gallery img { float: left; }
