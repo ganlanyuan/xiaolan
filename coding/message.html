@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  <title>欢迎来到我的网站-留言板</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <div class="page">
+    <div class="aside">
+      <p><span class="txt-1">Hello, 我是</span><br />
+        <img class="name" src="images/name.png" alt="阮雪兰"> <br />
+        <img class="avatar" src="images/avatar.png" alt=""> <br />
+        <span class="txt-2">欢迎大家来到我的网站</span>
+      </p>
+    </div>
+    <div class="main main-home">
+      <ul class="nav">
+        <li class="home"><a href="index.html">首页</a></li>
+        <li class="activity"><a href="activity.html">动态</a></li>
+        <li class="gerendang"><a href="gerendang.html">个人档</a></li>
+        <li class="music"><a href="music.html">音乐</a></li>
+        <li class="gallery"><a href="gallery.html">相册</a></li>
+        <li class="message current"><a href="message.html">留言板</a></li>
+      </ul>
+      <h2>留言板</h2>
+      <form action="" class="form-message">
+        <ol>
+          <li>
+            <label for="name">姓名<span class="required">*</span></label>
+            <input required type="text" placeholder="怎么称呼？">
+          </li>
+          <li>
+            <label for="email">E-mail<span class="required">*</span></label>
+            <input required type="email" placeholder="你的邮箱">
+          </li>
+          <li>
+            <label for="catagory">分类</label>
+            <select name="catagory" id="catagory">
+              <option value="cat-1">个人交流</option>
+              <option value="cat-2">学习交流</option>
+              <option value="cat-3">其他</option>
+            </select>
+          </li>
+          <li>
+            <label for="option">紧急程度</label>
+            <span>
+              <label for=""><input class="radio" type="radio" name="option" id="">紧急</label>
+              <label for=""><input class="radio" type="radio" name="option" id="" checked="">一般</label>
+            </span>
+          </li>
+          <li>
+            <label for="title">标题<span class="required">*</span></label>
+            <input required type="text" placeholder="留言标题">
+          </li>
+          <li>
+            <label for="content">内容<span class="required">*</span></label>
+            <textarea required name="" id="" cols="20" rows="4"></textarea>
+          </li>
+          <li>
+            <input type="submit" value="提交" class="submit">
+          </li>
+        </ol>
+      </form>
+      <div class="tips">提示：*为必填项。</div>
+    </div>
+  </div>
+</body>
+</html>
